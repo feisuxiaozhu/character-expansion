@@ -23,7 +23,6 @@ def nth_order_c(n):
         for dim in range(3+1, target_dim+1):
             next_array_dim = (nb_character,) * dim
             next_tensor = np.zeros(next_array_dim)
-            shape = next_tensor.shape
             for idx in itertools.product(*[range(s) for s in (nb_character,) * (dim-1)]):
                 index_except_last = idx[:dim-2]
                 index_last = idx[-1]
@@ -34,4 +33,4 @@ def nth_order_c(n):
             previous_tesnor = next_tensor
         return next_tensor
 
-print(nth_order_c(4)[16,16,16,16])
+
