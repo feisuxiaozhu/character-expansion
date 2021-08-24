@@ -17,7 +17,7 @@ for i in range(17):
 
 
 def beta(i):
-    string = 'beta_'+str(i)
+    string = 'betaP'+str(i)
     if i == 1:
         return sym.Symbol(string)-1
     else:
