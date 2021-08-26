@@ -10,10 +10,10 @@
 NotebookFileLineBreakTest
 NotebookFileLineBreakTest
 NotebookDataPosition[       158,          7]
-NotebookDataLength[    130494,       3480]
-NotebookOptionsPosition[    127789,       3438]
-NotebookOutlinePosition[    128233,       3455]
-CellTagsIndexPosition[    128190,       3452]
+NotebookDataLength[    141157,       3816]
+NotebookOptionsPosition[    138452,       3774]
+NotebookOutlinePosition[    138896,       3791]
+CellTagsIndexPosition[    138853,       3788]
 WindowFrame->Normal*)
 
 (* Beginning of Notebook Content *)
@@ -3052,20 +3052,355 @@ Cell[BoxData[
       SubscriptBox["\[Chi]", "6"], "+", 
       RowBox[{"2", 
        SubscriptBox["\[Chi]", "7"]}], "+", 
-      SubscriptBox["\[Chi]", "15"]}]}]}], "}"}]}]], "Input",
+      SubscriptBox["\[Chi]", "15"]}]}], ",", "\[IndentingNewLine]", 
+    RowBox[{
+     RowBox[{
+      SubscriptBox["\[Chi]", "9"], 
+      SubscriptBox["\[Chi]", "1"]}], "->", 
+     SubscriptBox["\[Chi]", "9"]}], ",", 
+    RowBox[{
+     RowBox[{
+      SubscriptBox["\[Chi]", "9"], 
+      SubscriptBox["\[Chi]", "2"]}], "->", 
+     RowBox[{
+      SubscriptBox["\[Chi]", "6"], "+", 
+      SubscriptBox["\[Chi]", "7"], "+", 
+      SubscriptBox["\[Chi]", "15"]}]}], ",", 
+    RowBox[{
+     RowBox[{
+      SubscriptBox["\[Chi]", "9"], 
+      SubscriptBox["\[Chi]", "3"]}], "->", 
+     RowBox[{
+      SubscriptBox["\[Chi]", "5"], "+", 
+      SubscriptBox["\[Chi]", "8"], "+", 
+      SubscriptBox["\[Chi]", "14"]}]}], ",", 
+    RowBox[{
+     RowBox[{
+      SubscriptBox["\[Chi]", "9"], 
+      SubscriptBox["\[Chi]", "4"]}], "->", 
+     RowBox[{
+      RowBox[{"2", 
+       SubscriptBox["\[Chi]", "4"]}], "+", 
+      RowBox[{"2", 
+       SubscriptBox["\[Chi]", "9"]}], "+", 
+      SubscriptBox["\[Chi]", "10"], "+", 
+      SubscriptBox["\[Chi]", "11"], "+", 
+      RowBox[{"2", 
+       SubscriptBox["\[Chi]", "12"]}], "+", 
+      RowBox[{"2", 
+       SubscriptBox["\[Chi]", "13"]}]}]}], ",", 
+    RowBox[{
+     RowBox[{
+      SubscriptBox["\[Chi]", "9"], 
+      SubscriptBox["\[Chi]", "5"]}], "->", 
+     RowBox[{
+      SubscriptBox["\[Chi]", "3"], "+", 
+      RowBox[{"3", 
+       SubscriptBox["\[Chi]", "8"]}], "+", 
+      SubscriptBox["\[Chi]", "14"], "+", 
+      SubscriptBox["\[Chi]", "17"]}]}], ",", 
+    RowBox[{
+     RowBox[{
+      SubscriptBox["\[Chi]", "9"], 
+      SubscriptBox["\[Chi]", "6"]}], "->", 
+     RowBox[{
+      SubscriptBox["\[Chi]", "2"], "+", 
+      RowBox[{"3", 
+       SubscriptBox["\[Chi]", "7"]}], "+", 
+      SubscriptBox["\[Chi]", "15"], "+", 
+      SubscriptBox["\[Chi]", "16"]}]}], ",", 
+    RowBox[{
+     RowBox[{
+      SubscriptBox["\[Chi]", "9"], 
+      SubscriptBox["\[Chi]", "7"]}], "->", 
+     RowBox[{
+      SubscriptBox["\[Chi]", "2"], "+", 
+      RowBox[{"3", 
+       SubscriptBox["\[Chi]", "6"]}], "+", 
+      RowBox[{"6", 
+       SubscriptBox["\[Chi]", "7"]}], "+", 
+      RowBox[{"4", 
+       SubscriptBox["\[Chi]", "15"]}], "+", 
+      SubscriptBox["\[Chi]", "16"]}]}], ",", 
+    RowBox[{
+     RowBox[{
+      SubscriptBox["\[Chi]", "9"], 
+      SubscriptBox["\[Chi]", "8"]}], "->", 
+     RowBox[{
+      SubscriptBox["\[Chi]", "3"], "+", 
+      RowBox[{"3", 
+       SubscriptBox["\[Chi]", "5"]}], "+", 
+      RowBox[{"6", 
+       SubscriptBox["\[Chi]", "8"]}], "+", 
+      RowBox[{"4", 
+       SubscriptBox["\[Chi]", "14"]}], "+", 
+      SubscriptBox["\[Chi]", "17"]}]}], ",", 
+    RowBox[{
+     RowBox[{
+      SubscriptBox["\[Chi]", "9"], 
+      SubscriptBox["\[Chi]", "9"]}], "->", 
+     RowBox[{
+      SubscriptBox["\[Chi]", "1"], "+", 
+      RowBox[{"2", 
+       SubscriptBox["\[Chi]", "4"]}], "+", 
+      RowBox[{"2", 
+       SubscriptBox["\[Chi]", "9"]}], "+", 
+      RowBox[{"2", 
+       SubscriptBox["\[Chi]", "10"]}], "+", 
+      RowBox[{"2", 
+       SubscriptBox["\[Chi]", "11"]}], "+", 
+      RowBox[{"2", 
+       SubscriptBox["\[Chi]", "12"]}], "+", 
+      RowBox[{"3", 
+       SubscriptBox["\[Chi]", "13"]}]}]}], ",", 
+    RowBox[{
+     RowBox[{
+      SubscriptBox["\[Chi]", "9"], 
+      SubscriptBox["\[Chi]", "10"]}], "->", 
+     RowBox[{
+      SubscriptBox["\[Chi]", "4"], "+", 
+      RowBox[{"2", 
+       SubscriptBox["\[Chi]", "9"]}], "+", 
+      SubscriptBox["\[Chi]", "10"], "+", 
+      SubscriptBox["\[Chi]", "12"], "+", 
+      SubscriptBox["\[Chi]", "13"]}]}], ",", 
+    RowBox[{
+     RowBox[{
+      SubscriptBox["\[Chi]", "9"], 
+      SubscriptBox["\[Chi]", "11"]}], "->", 
+     RowBox[{
+      SubscriptBox["\[Chi]", "4"], "+", 
+      RowBox[{"2", 
+       SubscriptBox["\[Chi]", "9"]}], "+", 
+      SubscriptBox["\[Chi]", "11"], "+", 
+      SubscriptBox["\[Chi]", "12"], "+", 
+      SubscriptBox["\[Chi]", "13"]}]}], ",", 
+    RowBox[{
+     RowBox[{
+      SubscriptBox["\[Chi]", "9"], 
+      SubscriptBox["\[Chi]", "12"]}], "->", 
+     RowBox[{
+      RowBox[{"2", 
+       SubscriptBox["\[Chi]", "4"]}], "+", 
+      RowBox[{"2", 
+       SubscriptBox["\[Chi]", "9"]}], "+", 
+      SubscriptBox["\[Chi]", "10"], "+", 
+      SubscriptBox["\[Chi]", "11"], "+", 
+      RowBox[{"2", 
+       SubscriptBox["\[Chi]", "12"]}], "+", 
+      RowBox[{"2", 
+       SubscriptBox["\[Chi]", "13"]}]}]}], ",", " ", 
+    RowBox[{
+     RowBox[{
+      SubscriptBox["\[Chi]", "9"], 
+      SubscriptBox["\[Chi]", "13"]}], "->", 
+     RowBox[{
+      RowBox[{"2", 
+       SubscriptBox["\[Chi]", "4"]}], "+", 
+      RowBox[{"3", 
+       SubscriptBox["\[Chi]", "9"]}], "+", 
+      SubscriptBox["\[Chi]", "10"], "+", 
+      SubscriptBox["\[Chi]", "11"], "+", 
+      RowBox[{"2", 
+       SubscriptBox["\[Chi]", "12"]}], "+", 
+      RowBox[{"2", 
+       SubscriptBox["\[Chi]", "13"]}]}]}], ",", 
+    RowBox[{
+     RowBox[{
+      SubscriptBox["\[Chi]", "9"], 
+      SubscriptBox["\[Chi]", "14"]}], "->", 
+     RowBox[{
+      SubscriptBox["\[Chi]", "3"], "+", 
+      SubscriptBox["\[Chi]", "5"], "+", 
+      RowBox[{"4", 
+       SubscriptBox["\[Chi]", "8"]}], "+", 
+      RowBox[{"2", 
+       SubscriptBox["\[Chi]", "14"]}], "+", 
+      SubscriptBox["\[Chi]", "17"]}]}], ",", 
+    RowBox[{
+     RowBox[{
+      SubscriptBox["\[Chi]", "9"], 
+      SubscriptBox["\[Chi]", "15"]}], "->", 
+     RowBox[{
+      SubscriptBox["\[Chi]", "2"], "+", 
+      SubscriptBox["\[Chi]", "6"], "+", 
+      RowBox[{"4", 
+       SubscriptBox["\[Chi]", "7"]}], "+", 
+      RowBox[{"2", 
+       SubscriptBox["\[Chi]", "15"]}], "+", 
+      SubscriptBox["\[Chi]", "16"]}]}], ",", 
+    RowBox[{
+     RowBox[{
+      SubscriptBox["\[Chi]", "9"], 
+      SubscriptBox["\[Chi]", "16"]}], "->", 
+     RowBox[{
+      SubscriptBox["\[Chi]", "6"], "+", 
+      SubscriptBox["\[Chi]", "7"], "+", 
+      SubscriptBox["\[Chi]", "15"]}]}], ",", 
+    RowBox[{
+     RowBox[{
+      SubscriptBox["\[Chi]", "9"], 
+      SubscriptBox["\[Chi]", "17"]}], "->", 
+     RowBox[{
+      SubscriptBox["\[Chi]", "5"], "+", 
+      SubscriptBox["\[Chi]", "8"], "+", 
+      SubscriptBox["\[Chi]", "14"]}]}], ",", "\[IndentingNewLine]", 
+    RowBox[{
+     RowBox[{
+      SubscriptBox["\[Chi]", "10"], 
+      SubscriptBox["\[Chi]", "1"]}], "->", 
+     SubscriptBox["\[Chi]", "10"]}], ",", 
+    RowBox[{
+     RowBox[{
+      SubscriptBox["\[Chi]", "10"], 
+      SubscriptBox["\[Chi]", "2"]}], "->", 
+     SubscriptBox["\[Chi]", "7"]}], ",", 
+    RowBox[{
+     RowBox[{
+      SubscriptBox["\[Chi]", "10"], 
+      SubscriptBox["\[Chi]", "3"]}], "->", 
+     SubscriptBox["\[Chi]", "8"]}], ",", 
+    RowBox[{
+     RowBox[{
+      SubscriptBox["\[Chi]", "10"], 
+      SubscriptBox["\[Chi]", "4"]}], "->", 
+     RowBox[{
+      SubscriptBox["\[Chi]", "4"], "+", 
+      SubscriptBox["\[Chi]", "9"], "+", 
+      SubscriptBox["\[Chi]", "11"], "+", 
+      SubscriptBox["\[Chi]", "12"], "+", 
+      SubscriptBox["\[Chi]", "13"]}]}], ",", 
+    RowBox[{
+     RowBox[{
+      SubscriptBox["\[Chi]", "10"], 
+      SubscriptBox["\[Chi]", "5"]}], "->", 
+     RowBox[{
+      SubscriptBox["\[Chi]", "5"], "+", 
+      SubscriptBox["\[Chi]", "8"], "+", 
+      SubscriptBox["\[Chi]", "14"]}]}], ",", 
+    RowBox[{
+     RowBox[{
+      SubscriptBox["\[Chi]", "10"], 
+      SubscriptBox["\[Chi]", "6"]}], "->", 
+     RowBox[{
+      SubscriptBox["\[Chi]", "6"], "+", 
+      SubscriptBox["\[Chi]", "7"], "+", 
+      SubscriptBox["\[Chi]", "5"]}]}], ",", 
+    RowBox[{
+     RowBox[{
+      SubscriptBox["\[Chi]", "10"], 
+      SubscriptBox["\[Chi]", "7"]}], "->", 
+     RowBox[{
+      SubscriptBox["\[Chi]", "2"], "+", 
+      SubscriptBox["\[Chi]", "6"], "+", 
+      RowBox[{"3", 
+       SubscriptBox["\[Chi]", "7"]}], "+", 
+      RowBox[{"2", 
+       SubscriptBox["\[Chi]", "15"]}], "+", 
+      SubscriptBox["\[Chi]", "16"]}]}], ",", 
+    RowBox[{
+     RowBox[{
+      SubscriptBox["\[Chi]", "10"], 
+      SubscriptBox["\[Chi]", "8"]}], "->", 
+     RowBox[{
+      SubscriptBox["\[Chi]", "3"], "+", 
+      SubscriptBox["\[Chi]", "5"], "+", 
+      RowBox[{"3", 
+       SubscriptBox["\[Chi]", "8"]}], "+", 
+      RowBox[{"2", 
+       SubscriptBox["\[Chi]", "14"]}], "+", 
+      SubscriptBox["\[Chi]", "17"]}]}], ",", 
+    RowBox[{
+     RowBox[{
+      SubscriptBox["\[Chi]", "10"], 
+      SubscriptBox["\[Chi]", "9"]}], "->", 
+     RowBox[{
+      SubscriptBox["\[Chi]", "4"], "+", 
+      RowBox[{"2", 
+       SubscriptBox["\[Chi]", "9"]}], "+", 
+      SubscriptBox["\[Chi]", "10"], "+", 
+      SubscriptBox["\[Chi]", "12"], "+", 
+      SubscriptBox["\[Chi]", "13"]}]}], ",", 
+    RowBox[{
+     RowBox[{
+      SubscriptBox["\[Chi]", "10"], 
+      SubscriptBox["\[Chi]", "10"]}], "->", 
+     RowBox[{
+      SubscriptBox["\[Chi]", "1"], "+", 
+      SubscriptBox["\[Chi]", "9"], "+", 
+      SubscriptBox["\[Chi]", "10"], "+", 
+      SubscriptBox["\[Chi]", "13"]}]}], ",", 
+    RowBox[{
+     RowBox[{
+      SubscriptBox["\[Chi]", "10"], 
+      SubscriptBox["\[Chi]", "11"]}], "->", 
+     RowBox[{
+      SubscriptBox["\[Chi]", "4"], "+", 
+      SubscriptBox["\[Chi]", "12"], "+", 
+      SubscriptBox["\[Chi]", "13"]}]}], ",", 
+    RowBox[{
+     RowBox[{
+      SubscriptBox["\[Chi]", "10"], 
+      SubscriptBox["\[Chi]", "12"]}], "->", 
+     RowBox[{
+      SubscriptBox["\[Chi]", "4"], "+", 
+      SubscriptBox["\[Chi]", "9"], "+", 
+      SubscriptBox["\[Chi]", "11"], "+", 
+      SubscriptBox["\[Chi]", "12"], "+", 
+      SubscriptBox["\[Chi]", "13"]}]}], ",", 
+    RowBox[{
+     RowBox[{
+      SubscriptBox["\[Chi]", "10"], 
+      SubscriptBox["\[Chi]", "13"]}], "->", 
+     RowBox[{
+      SubscriptBox["\[Chi]", "4"], "+", 
+      SubscriptBox["\[Chi]", "9"], "+", 
+      SubscriptBox["\[Chi]", "10"], "+", 
+      SubscriptBox["\[Chi]", "11"], "+", 
+      SubscriptBox["\[Chi]", "12"], "+", 
+      SubscriptBox["\[Chi]", "13"]}]}], ",", 
+    RowBox[{
+     RowBox[{
+      SubscriptBox["\[Chi]", "10"], 
+      SubscriptBox["\[Chi]", "14"]}], "->", 
+     RowBox[{
+      SubscriptBox["\[Chi]", "5"], "+", 
+      RowBox[{"2", 
+       SubscriptBox["\[Chi]", "8"]}], "+", 
+      SubscriptBox["\[Chi]", "14"]}]}], ",", 
+    RowBox[{
+     RowBox[{
+      SubscriptBox["\[Chi]", "10"], 
+      SubscriptBox["\[Chi]", "15"]}], "->", 
+     RowBox[{
+      SubscriptBox["\[Chi]", "6"], "+", 
+      RowBox[{"2", 
+       SubscriptBox["\[Chi]", "7"]}], "+", 
+      SubscriptBox["\[Chi]", "15"]}]}], ",", 
+    RowBox[{
+     RowBox[{
+      SubscriptBox["\[Chi]", "10"], 
+      SubscriptBox["\[Chi]", "16"]}], "->", 
+     SubscriptBox["\[Chi]", "7"]}], ",", 
+    RowBox[{
+     RowBox[{
+      SubscriptBox["\[Chi]", "10"], 
+      SubscriptBox["\[Chi]", "17"]}], "->", 
+     SubscriptBox["\[Chi]", "8"]}]}], "}"}]}]], "Input",
  CellChangeTimes->CompressedData["
-1:eJwd0FkowwEAx/HlWHnAJCXJEcmUKWpmeXCsjZkj98MsKZp/NFeu5SpXhsxN
-U2K5hkluIQ1JS1jIGTK55kW5Lf+fh1+ft9/D1zVNEptuQqFQ3MjBTBZNHNb7
-HJyiscyCtIaiEiiwUDfCjfIJOTSGOvRBT935ANzq+B2F4wuFU5C1evWvznZl
-BrobGRqY/KK/gKmLjFv41mxzD8dcVA9we7PFANuYylc4va14h/dVepNw0va9
-PDto/xTvDF0LrTzgzru1NxT5hvjBWpVlAFziG4NgoumQBI6VMT0EpK1JFT6w
-SHvOh7H9nflw99apFPJoIiU0fzmZhPVs2jxkcokVGDicrYWVhqwDSOGJj6FU
-K/2EGkfDN8yZ/aFGktKF0xx45GIWAbUB+XFwbnFZCDPUvQQU33XnwssmVS3k
-7zvKIMG5WofCjbot+EUo9bD+scAuilTRU82AvjquH2zwSmfBmzw2J+q/J70G
-fhDRMjgio3bBvZLDQciWStQw4ax4DfYoYtah/zX7FFJfeV7R+KfO+cDubDkX
-/gEz2SFX
-  "],
- CellLabel->"In[73]:=",ExpressionUUID->"0e3004fa-e126-479e-8d66-6e2eb15784d6"],
+1:eJwd0VtIkwEAxfGxatCDtRApSrxUWArNUFhz9NBlbLWWil0flkSirA9lqaHZ
+6AZp4irSrKat6DLSXLqQmppMkdmQGrIaGXkJCxdWTkghuw6/vw+H39t5OCfx
+mDknXyqRSDaIweMquWlX49T2I96oQpTXlFegYanrMvafba3FyM7Vd3BjcPQB
++m78f4xPOsueoqpnfMFgtOcZro8ovHh4OjSGR7sUE/jz6opJbElwfsWBl9fC
+eF3pmMX2AfscTl4ISXeL1gdKYnDV9/3xmFi2LAlfzS3fhLlpO9KxyhmVgS/0
+kW14cNEjM7acUSYZROsOnUvFcv+oHnPu3SzFwYm406iT5zpwyfSHNqxWyztQ
+qRU8uLWpyI/nw4VvUaIzvUeL3/IbvbHhv3ji+T/ZXtFkY7sGhxIW70F/Ruk+
+dHd1G7HA1Sig6YutGD9ecVah/k2sFQXNeB8a+y/58I/gCGH1t5MxmaL2hosK
+TAtq07EmJV+Fn0vUmsyFPZMr8ZeQZcVmq+wWBirePUS1xezCAyOnerHBnt2H
+Wz6ph1E2q0vJol/mTkVbUa0Wu9dszkPH7YAN3YMzdjT8GPbi2uapAN69r1qZ
+ze+vfXG4ziONx3kKyEMu
+  
+  "],ExpressionUUID->"0e3004fa-e126-479e-8d66-6e2eb15784d6"],
 
 Cell[BoxData[
  InterpretationBox[
@@ -3099,7 +3434,7 @@ Cell[BoxData[
           RowBox[{"6.136126558848513`*^-7", " ", 
            SuperscriptBox["\[Beta]", "9"], " ", 
            SubscriptBox["\[Chi]", "1"]}], "+", 
-          TemplateBox[{"7246"},
+          TemplateBox[{"6532"},
            "OutputSizeLimit`Skeleton"], "+", 
           RowBox[{"5.606130861059184`*^-33", " ", 
            SuperscriptBox["\[Beta]", "39"], " ", 
@@ -3283,7 +3618,7 @@ Cell[BoxData[
            BaselinePosition->Baseline,
            
            ButtonFunction:>OutputSizeLimit`ButtonFunction[
-            OutputSizeLimit`Defer, 73, 26562950862114950821, 5/2],
+            OutputSizeLimit`Defer, 75, 26562950862114950821, 5/2],
            Enabled->True,
            Evaluator->Automatic,
            Method->"Queued"], 
@@ -3320,7 +3655,7 @@ Cell[BoxData[
            BaselinePosition->Baseline,
            
            ButtonFunction:>OutputSizeLimit`ButtonFunction[
-            OutputSizeLimit`Defer, 73, 26562950862114950821, 5 2],
+            OutputSizeLimit`Defer, 75, 26562950862114950821, 5 2],
            Enabled->True,
            Evaluator->Automatic,
            Method->"Queued"], 
@@ -3356,7 +3691,7 @@ Cell[BoxData[
            Appearance->None,
            BaselinePosition->Baseline,
            ButtonFunction:>OutputSizeLimit`ButtonFunction[
-            OutputSizeLimit`Defer, 73, 26562950862114950821, Infinity],
+            OutputSizeLimit`Defer, 75, 26562950862114950821, Infinity],
            Enabled->True,
            Evaluator->Automatic,
            Method->"Queued"], 
@@ -3425,15 +3760,16 @@ Cell[BoxData[
    Deploy,
    DefaultBaseStyle->"Deploy"],
   If[26562950862114950821 === $SessionID, 
-   Out[73], Message[
+   Out[75], Message[
      MessageName[Syntax, "noinfoker"]]; Missing["NotAvailable"]; 
    Null]]], "Output",
  CellChangeTimes->{
   3.838985056855239*^9, 3.8389851926542473`*^9, {3.8389852926522427`*^9, 
    3.838985311028048*^9}, 3.838986491536828*^9, 3.838992766349326*^9, 
    3.8389941114858932`*^9, 3.8389952877957573`*^9, 3.8389962768178797`*^9, 
-   3.8389978876047297`*^9, 3.8389990945058126`*^9},
- CellLabel->"Out[73]=",ExpressionUUID->"5e558ce5-601c-4662-b634-16798c3b8a33"]
+   3.8389978876047297`*^9, 3.8389990945058126`*^9, 3.839000096874818*^9, 
+   3.839000767810259*^9},
+ CellLabel->"Out[75]=",ExpressionUUID->"05eefbe3-3dff-4e1b-afc7-6b7f679d76ff"]
 }, Open  ]]
 },
 WindowSize->{1880, 1043},
@@ -3479,8 +3815,8 @@ Cell[61496, 1511, 468, 9, 30, "Input",ExpressionUUID->"ae6f03ab-aea4-4501-adcc-1
 Cell[61967, 1522, 11542, 282, 118, "Output",ExpressionUUID->"ced238ee-070b-4e2e-8cab-1c4577914758"]
 }, Open  ]],
 Cell[CellGroupData[{
-Cell[73546, 1809, 39465, 1258, 405, "Input",ExpressionUUID->"0e3004fa-e126-479e-8d66-6e2eb15784d6"],
-Cell[113014, 3069, 14759, 366, 140, "Output",ExpressionUUID->"5e558ce5-601c-4662-b634-16798c3b8a33"]
+Cell[73546, 1809, 50080, 1593, 515, "Input",ExpressionUUID->"0e3004fa-e126-479e-8d66-6e2eb15784d6"],
+Cell[123629, 3404, 14807, 367, 140, "Output",ExpressionUUID->"05eefbe3-3dff-4e1b-afc7-6b7f679d76ff"]
 }, Open  ]]
 }
 ]
