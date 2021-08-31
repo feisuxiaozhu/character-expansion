@@ -1,8 +1,7 @@
 from utils import nth_order_coefficients
 import numpy as np
-import _pickle as pickle
 
-order = 3
+order = 4
 result = nth_order_coefficients(order)
 
 result_dict = {}
