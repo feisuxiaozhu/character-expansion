@@ -1,7 +1,7 @@
 from utils import nth_order_coefficients
 import numpy as np
 
-order = 5
+order = 6
 result = nth_order_coefficients(order)
 
 result_dict = {}
